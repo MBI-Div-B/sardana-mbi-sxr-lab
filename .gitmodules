@@ -1,0 +1,3 @@
+[submodule "RSXS"]
+	path = RSXS
+	url = https://github.com/MBI-Div-B/sardana-mbi-sxr-scattering
